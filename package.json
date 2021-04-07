@@ -1,0 +1,38 @@
+{
+  "name": "react-setup",
+  "version": "1.0.0",
+  "description": "This is demo react project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production",
+    "start": "webpack-dev-server --mode development --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elenagiura/react-setup.git"
+  },
+  "author": "Elena Milosevic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elenagiura/react-setup/issues"
+  },
+  "homepage": "https://github.com/elenagiura/react-setup#readme",
+  "dependencies": {
+    "@babel/polyfill": "^7.12.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "simple-slider": "^1.0.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.13.14",
+    "@babel/preset-env": "^7.13.12",
+    "@babel/preset-react": "^7.13.13",
+    "babel-loader": "^8.2.2",
+    "css-loader": "^5.2.0",
+    "html-webpack-plugin": "^4.5.2",
+    "webpack": "^4.46.0",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
