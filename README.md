@@ -1,21 +1,21 @@
 # REACT SETTING UP ENVIRONMENT
 
 ## TABLE CONTENTS
-* [WHY DO WE NEED TO SETUP ENVIRONMENT ?]
-* [WHAT DO WE NEED TO SETUP ?]
-* [PROJECT REPO]
-* [CREATING PROJECT FOLDER STRUCTURE]
-* [NPM]
-* [WHAT IS PACKAGE.JSON FILE ?]
-* [WHAT ARE DEPENDENCIES ?]
-* [SETTING UP WEBPACK]
-* [COMPILING HTML FILE TO DIST FOLDER]
-* [SETTING UP DEV SERVER]
-* [SETTING UP BABEL]
-* [ADD CSS LOADER]
-* [ADD GITIGNORE FILE]
-* [SETTING UP REACT]
-* [REACT STRUCTURE]
+* [WHY DO WE NEED TO SETUP ENVIRONMENT ?](why-do-we-need-to-setup-environment-?)
+* [WHAT DO WE NEED TO SETUP ?](what-do-we-need-to-setup-?)
+* [PROJECT REPO](project-repo)
+* [CREATING PROJECT FOLDER STRUCTURE](creating-project-folder-structure)
+* [NPM](npm)
+* [WHAT IS PACKAGE.JSON FILE ?](what-is-package.json-file-?)
+* [WHAT ARE DEPENDENCIES ?](what-are-dependencies-?)
+* [SETTING UP WEBPACK](setting-up-webpack)
+* [COMPILING HTML FILE TO DIST FOLDER](compiling-html-file-to-dist-folder)
+* [SETTING UP DEV SERVER](setting-up-dev-server)
+* [SETTING UP BABEL](setting-up-babel)
+* [ADD CSS LOADER](add-css-loader)
+* [ADD GITIGNORE FILE](add-gitignore-file)
+* [SETTING UP REACT](setting-up-react)
+* [REACT STRUCTURE](react-structure)
 
 ## WHY DO WE NEED TO SETUP ENVIRONMENT ?
 
