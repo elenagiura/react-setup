@@ -1,13 +1,13 @@
 # REACT SETTING UP ENVIRONMENT
 
 ## TABLE CONTENTS
-* [WHY DO WE NEED TO SETUP ENVIRONMENT ?](#why-do-we-need-to-setup-environment-?)
-* [WHAT DO WE NEED TO SETUP ?](#what-do-we-need-to-setup-?)
+* [WHY DO WE NEED TO SETUP ENVIRONMENT ?](#why-do-we-need-to-setup-environment-)
+* [WHAT DO WE NEED TO SETUP ?](#what-do-we-need-to-setup-)
 * [PROJECT REPO](#project-repo)
 * [CREATING PROJECT FOLDER STRUCTURE](#creating-project-folder-structure)
 * [NPM](#npm)
-* [WHAT IS PACKAGE.JSON FILE ?](#what-is-package.json-file-?)
-* [WHAT ARE DEPENDENCIES ?](#what-are-dependencies-?)
+* [WHAT IS PACKAGE.JSON FILE ?](#what-is-package.json-file-)
+* [WHAT ARE DEPENDENCIES ?](#what-are-dependencies-)
 * [SETTING UP WEBPACK](#setting-up-webpack)
 * [COMPILING HTML FILE TO DIST FOLDER](#compiling-html-file-to-dist-folder)
 * [SETTING UP DEV SERVER](#setting-up-dev-server)
