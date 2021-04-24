@@ -86,7 +86,7 @@ $ npm install --save-dev <package_name>
 - We can also install packages GLOBALLY, so it can be used anywhere on machine
 - To do that we can do:
 ```
-$ npm install -g package_name
+$ npm install -g <package_name>
 ```
 
 ## WHAT ARE DEPENDENCIES ?
